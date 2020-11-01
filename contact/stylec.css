@@ -1,0 +1,58 @@
+
+.navbar-color{
+    background-color: #000000;
+}
+.underline{
+    text-decoration: underline solid #DCFF04;
+}
+.weight{
+    font-weight: bold;
+    color: #DCFF04;
+}
+.jumbotron-img{
+    background-image: url("./img/1.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: auto;
+    width: auto;
+    background-size:  1538px 410px;
+    opacity: 0.8;
+    
+}
+.j-img{
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+    
+}
+.about{
+    color: white;
+    font-weight: 800;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+.cl{
+    color:#DCFF04;
+}
+.circle1{
+    height: 150px;
+    border-radius: 50%;
+    width: 150px;
+    text-align: center;
+  }
+.te-al{
+    text-align: center;
+    color: white;
+}
+.card{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+}
+
+
+.roud{
+    border-radius: 50%;
+}
